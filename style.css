@@ -46,9 +46,6 @@ li{
     text-decoration: none; 
 }
 
-
-/* Header */
-
 header{
     width: 100%;
     display: flex;
@@ -82,8 +79,6 @@ header li:last-child{
     padding-bottom: 9px;
     letter-spacing: 1px;
 }
-
-/* Primeira seção */
 
 
 .main-banner{
@@ -168,8 +163,6 @@ header li:last-child{
     bottom: 70px;
     z-index: 40;
 }
-
-/* Segunda seção */
 
 .content{
     font-family: 'Segoui';
@@ -319,8 +312,6 @@ header li:last-child{
     margin: 20px auto;
 }
 
-
-/*formatando as ilustrações especificas*/
 
 #partner div{
     background-color: #97BF04;
